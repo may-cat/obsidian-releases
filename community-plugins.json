@@ -19003,5 +19003,13 @@
     "author": "Dmitry I. Sokolov",
     "description": "Render Go game diagrams from Markdown code blocks.",
     "repo": "dsokolov/goboard"
+  },
+  {
+    "id": "obsidigram",
+    "name": "Obsidigram",
+    "author": "Igor Tsupko",
+    "description": "Telegram to Obsidian AI Bridge aka Obsidigram",
+    "repo": "may-cat/obsidigram"
   }
+  
 ]
